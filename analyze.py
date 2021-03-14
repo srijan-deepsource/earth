@@ -31,7 +31,7 @@ def analyze():
             if bad_ds in line:
                 issues.append(
                     make_issue(
-                        "WATER-001",
+                        "HBFTW",
                         f"Blacklisted word: {bad_ds}",
                         filepath,
                         lno,
