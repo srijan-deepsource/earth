@@ -1,3 +1,3 @@
-name = "Hackstreet Boys"
+name = "Earth"
 description = "Raise my issues on deepsource"
 command = "python3 /app/analyze.py"
